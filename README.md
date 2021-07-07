@@ -1,4 +1,4 @@
-# MyApp2_Android fundamentals 05.1: Drawables, styles, and themes
+# MyApp2_드로어블, 스타일, 테마
 
 
 Day Mode 처음화면
